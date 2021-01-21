@@ -4,6 +4,6 @@ I am a student currently studying Computing and the Arts at Yale University. I a
 
 ## You can find me around the web: 
 - Sharing artworks and doodles on [instagram](https://www.instagram.com/artjackli) 🎨
-- Exploring different projects on my website (coming soon) 🔒
+- Exploring different projects on my website (https://m3353.github.io)
 - or just email me at jack.li@yale.edu 
 
